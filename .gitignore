@@ -1,0 +1,10 @@
+# 忽略 IntelliJ IDEA 配置文件
+.idea/
+*.iml
+
+# 忽略 macOS 生成的无用文件
+.DS_Store
+
+# 忽略编译生成的 class 文件和 out 目录
+out/
+*.class
